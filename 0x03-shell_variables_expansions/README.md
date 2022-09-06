@@ -1,1 +1,1 @@
-a script that lists environment variables
+a script that lists environment variable
