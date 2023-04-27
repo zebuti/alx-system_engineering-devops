@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#  ths code displays Best School 10 times
+
+i=0
+for i in {1..10}
+do
+    echo "Best School"
+done
+i=$i
